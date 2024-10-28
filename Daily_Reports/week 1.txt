@@ -1,11 +1,34 @@
 October 21 -> October 27 :
+
 Monday 21 Oct:
-9:00 am -> 10:15 am practicing grid 
-10:15 am -> 11:00 am meeting
+9:00 am -> 10:15 am practicing grid .
+10:15 am -> 11:00 am meeting.
 11:30 am -> 1:00 pm watched the video you sent me about 60-30-10 color ...
 7:15 pm -> 9:40 pm DOM manipulation course.
 
 Tuesday 22 Oct:
-9:00 am -> 10:00 am DOM manipulation course
-10:00 am -> 10:30 am Meeting with Cathrina for the project
-10:30 am -> 11:00 am Git and Github
+9:00 am -> 10:00 am DOM manipulation course.
+10:00 am -> 10:30 am Meeting with Cathrina for the project.
+10:30 am -> 11:00 am Git and Github.
+
+Wednesday 23 Oct:
+9:00 am -> 10:30 am Watching video on How to start building a website from scratc.
+10:30 am -> 11:15 am meetin with Fouad and Cathrina for the project (we had some questions).
+
+Thurdsay 24 Oct:
+No work
+
+Firday 25 Oct:
+9:00 am -> 10:00 am watching a video about before and after in css and praciting.
+10:30 am -> 11:30 am i was searching for car renatl websites to see there designs and know what should 
+do for my project.
+12:00 am -> 1:00 pm Tried to draw my first page for my website and share it with cathrina.\
+
+Saturday 26 Oct:
+7:30 pm -> 9:00 pm wathced a javascript project roolette game.
+
+Sunday 27 Oct:
+9:00 am -> 11:00 am continued watching te project roolette video.
+11:30 am -> 1:00 pm watching videos and taking notes on what are the things i should focus on while building
+a website from scratch.
+ 
