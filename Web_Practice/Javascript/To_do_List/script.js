@@ -24,7 +24,7 @@ function buildTask(task) {
   deleteBtn.className = 'del';
 
   deleteBtn.addEventListener('click', () => {
-    taskContainer.remove();
+    taskDiv.remove();
   });
 
   taskDiv.appendChild(input);

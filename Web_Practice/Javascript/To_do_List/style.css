@@ -10,15 +10,27 @@ body {
   top: 15%;
   left: 50%;
   transform: translate(-50%, -15%);
-  border: 1px solid;
-  padding: 2em;
-  border-radius: .5em;
 }
 
-.add-tasks {
+.add-task {
+  border: 1px solid;
+  padding: 2em;
+  border-radius: 1em;
   margin-bottom: 1em;
 }
 
 .show-tasks {
   border: 1px solid;
+  padding: 2em;
+  border-radius: 1em;
+  max-height: 100px;
+  overflow-y: auto;
+}
+
+.task-container {
+  margin-bottom: .5em;
+}
+
+.to-do {
+  margin-right: .3em;
 }
