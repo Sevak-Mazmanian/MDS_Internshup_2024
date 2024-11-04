@@ -1,8 +1,11 @@
 Week 2 Oct 28 -> Nov 1
+
 Schedule:Monday, Tuesday, Wednesday, Friday.
+Work for 16hrs.
 
 Objectives-Topics:
-1.Design for Project
+1.Design for Project.
+2.
 
 
 
@@ -10,16 +13,17 @@ Monday Oct 28:(4hrs)
 9:00 am -> 10:30 am Trying to build a to-do-list without any help from the internet.
 11:30 am -> 2:00 pm working on the project me and Catherina (we almsot finisehd designing our first page).
 
-Tuesday Oct 29:
+Tuesday Oct 29:(3hrs 15min)
 9:30 am -> 11:00 am Watched some videos about css effects and design.
 11:15 am -> 12:00 pm Fixed some issues I had on figma for my project.
 12:00 pm -> 1:00 pm Fixed a small problem inside my javascript sheet in my to-do-list.
 
-Wednesday Oct 30:
+Wednesday Oct 30:(4hrs)
 9:00 am -> 10:00 am javascript to-do-list.
 11:00 am -> 2:00 pm project with Catherina (design Figma).
 
-Friday Oct 1:
+Friday Oct 1:(3hrs 30min)
 9:30 am -> 1:00 pm working on the project mostly focusing on design using figma.
 
-Week summary: Total nb of hours.
+Week summary: 
+1.Hourse worked:14hrs and 45min.

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Sevak",
+    "age": 20,
+    "email": "mazmaniansevak@gmail.com",
+    "hobbies": [
+      "Weight lifring",
+      "Piano",
+      "Cycling"
+    ],
+    "freind": [
+      {
+        "name": "Jacob",
+        "age": 20,
+        "job": "Bartender"
+      }
+    ]
+  },
+  {
+    "name": "Joey",
+    "age": 24,
+    "email": "Iskandarjoey@gmail.com",
+    "hobbies": [
+      "Drifting",
+      "Hunting"
+    ],
+    "freind": [
+      {
+        "name": "Larissa",
+        "age": 24,
+        "job": "Nurse"
+      }
+    ]
+  }
+]
